@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NavitskiK
 - 👀 I’m interested in a mobile app
-- 🌱 I’m currently learning UI/UX
+- 🌱 I’m UI/UX designer
 - 💞️ I’m looking to collaborate on a mobile app...
 - 📫 How to reach me:   
 
